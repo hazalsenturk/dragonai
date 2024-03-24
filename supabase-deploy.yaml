@@ -1,0 +1,39 @@
+template-file-path: dragonAI_template.yaml
+parameters:
+  Email: noreply@example.com
+  SenderName: Supabase
+  AuthProvider2Name573986E5: ''
+  AuthProvider3ClientId8DF3C6F7: ''
+  PasswordMinLength: '8'
+  RealtimeTaskSize6077FE1F: medium
+  WebAclArn: ''
+  AuthProvider3Secret29364F33: '****'
+  AuthProvider1ClientId5614D178: ''
+  EnableHighAvailability: 'false'
+  RestImageUri: public.ecr.aws/supabase/postgrest:v11.2.0
+  DisableSignup: 'false'
+  MaxACU: '32'
+  MetaTaskSize556D36D9: medium
+  PostgresMetaImageUri: public.ecr.aws/supabase/postgres-meta:v0.74.2
+  MinACU: '0.5'
+  AuthProvider3NameA8A7785F: ''
+  JwtExpiryLimit: '3600'
+  AuthProvider2Secret2662F55E: '****'
+  KongTaskSize93C195E9: medium
+  ImgproxyImageUri: public.ecr.aws/supabase/imgproxy:v1.2.0
+  ImgproxyTaskSize5D0DD9F6: medium
+  SiteUrl: http://localhost:3000
+  AuthImageUri: public.ecr.aws/supabase/gotrue:v2.110.0
+  StorageImageUri: public.ecr.aws/supabase/storage-api:v0.43.11
+  AuthProvider2ClientIdF3685A2B: ''
+  StudioBranch: v0.23.09
+  AuthTaskSize9895C206: medium
+  RealtimeImageUri: public.ecr.aws/supabase/realtime:v2.25.27
+  SesRegion: us-east-1
+  AuthProvider1Name740DD3F6: ''
+  StorageTaskSizeB82D9CFB: medium
+  RedirectUrls: ''
+  AuthProvider1SecretAE54364F: '****'
+  EnableWorkMail: 'false'
+  RestTaskSize14E11A14: medium
+tags: {}
